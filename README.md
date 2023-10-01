@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sv30092001@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/cQ168](https://shorturl.at/cQ168)
+- 📄 Know about my experiences [Link](https://shorturl.at/cxFT6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
