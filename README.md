@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shivam Verma</h1>
-<h3 align="center">An Android Developer from India</h3>
+<h3 align="center">A Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=photon3009&label=Profile%20views&color=0e75b6&style=flat" alt="photon3009" /> </p>
 
-- 🔭 I’m currently working on **Fullstack Flutter and Jetpack Compose App Development and Automation testing**
+- 💻 I build end-to-end apps using Next.js, React, Node.js, Django, Flutter, Kotlin, and Go, and love scaling them with Docker + AWS + SAM.
 
-- 🌱 I’m currently learning **different backend technologies for app development**
+- 🤖 Actively exploring how to enhance developer workflows and product experiences using GenAI, LLMs, and edge AI deployments.
 
-- 👯 I’m looking to collaborate with **Fullstack App developers**
-
-- 💬 Ask me about **Flutter and Jetpack Compose**
+- 🛠️ Believe in building systems that are modular, scalable, and AI-augmented from day one.
 
 - 📫 How to reach me **sv30092001@gmail.com**
-
-- 📄 Know about my experiences [Link](https://shorturl.at/cxFT6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
