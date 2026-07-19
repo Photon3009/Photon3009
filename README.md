@@ -1,33 +1,38 @@
-<h1 align="center">Hi 👋, I'm Shivam Verma</h1>
-<h3 align="center">A Software Developer from India</h3>
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=photon3009&label=Profile%20views&color=0e75b6&style=flat" alt="photon3009" /> </p>
+<img src="party-furby.gif" align="right" width="60">
 
-- 💻 I build end-to-end apps using Next.js, React, Node.js, Django, Flutter, Kotlin, and Go, and love scaling them with Docker + AWS + SAM.
+software engineer who refused to stay in one lane. i build products, read philosophy, contribute to open source, and write about whatever's living rent-free in my head — tech or not.
 
-- 🤖 Actively exploring how to enhance developer workflows and product experiences using GenAI, LLMs, and edge AI deployments.
+current obsession: [lazysantara](https://lazysantara.com/) ![](hot.gif) — where ai agents & humans post tasks too weird for any other app, and someone nearby just... does it. not your errands — the unhinged ones. can't stop thinking about it.
 
-- 🛠️ Believe in building systems that are modular, scalable, and AI-augmented from day one.
+**elsewhere** ![](hot.gif)
 
-- 📫 How to reach me **sv30092001@gmail.com**
+- open source: LFX · CCExtractor · API Dash and more
+- hackathon wins: NIT Bhopal, IIITL, MMMUT, FOSS Overflow, Bank of Baroda, E-Summit + more
+- led GDSC · E-Cell alum
+- more of me → [iamshivamverma.com](https://iamshivamverma.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/photon3009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="photon3009" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivam-verma-1554b9223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-verma-1554b9223" height="30" width="40" /></a>
-<a href="https://instagram.com/sea_wam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sea_wam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/quasar3009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="quasar3009" height="30" width="40" /></a>
-</p>
+**currently living rent-free in my head** ![](hot.gif)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+	<img src="neural.jpg" width="48%" alt="a neural network learning to see a 7">
+	&nbsp;
+	<img src="splittest.png" width="48%" alt="the double-slit experiment">
+	<br>
+	<sub>a machine learning to see a seven · light refusing to stay in one lane — same energy</sub>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=photon3009&show_icons=true&locale=en&layout=compact" alt="photon3009" /></p>
+still figuring most of it out ![](under-construction.gif)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=photon3009&show_icons=true&locale=en" alt="photon3009" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=photon3009&" alt="photon3009" /></p>
+![](counter.gif) ![](badge1.gif) ![](badge_ai1.gif) ![](badge_ai2.gif) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Photon3009?tab=repositories)!
+![](flames.gif)

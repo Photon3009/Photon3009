@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sips -g pixelWidth -g pixelHeight badge2.gif badge3.png badge1.gif)"
+    ]
+  }
+}
